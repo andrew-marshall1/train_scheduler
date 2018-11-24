@@ -1,0 +1,28 @@
+
+img {
+    height: 60%;
+}
+
+.left_train {
+    position: absolute;
+    top: 20%;
+    left: -100px;
+    height: 150px;
+    width: 500px;
+}
+
+.right_train {
+    position: absolute;
+    top: 20%;
+    right: 0px;
+    height: 150px;
+    width: 400px;
+}
+
+.display-4 {
+    font-weight: bold;
+}
+
+.lead {
+    font-weight: bold;
+}
