@@ -6,6 +6,7 @@ img {
 .left_train {
     position: absolute;
     top: 20%;
+    bottom: 20%;
     left: -100px;
     height: 200px;
     width: 500px;
