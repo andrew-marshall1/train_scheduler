@@ -5,10 +5,10 @@ img {
 
 .left_train {
     position: absolute;
-    margin-bottom: 20%;
+    top: 20%;
     left: -100px;
     height: 150px;
-    width: 500px;
+    width: 400px;
 }
 
 .right_train {
