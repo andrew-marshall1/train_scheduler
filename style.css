@@ -5,6 +5,7 @@ img {
 
 .left_train {
     position: absolute;
+    margin-bottom: 5%;
     left: -100px;
     height: 150px;
     width: 500px;
